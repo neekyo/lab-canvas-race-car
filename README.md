@@ -1,3 +1,5 @@
+Group project with legendary coder & colleague, AndresMWeber, to practice Canvas. View demo below!
+
 ![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
 
 # JS | Canvas RaceCar
